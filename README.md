@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pavlo (@iclless) Shevchuk!
-- 👀 I’m interested in Android dev (Java & Kotlin), Data science, DevOps.
+- 👀 I’m interested in Android dev (Java & Kotlin)
 - 🌱 I’m currently learning Java, Android Studio and a little Kotlin.
-- 📫 How to reach me - telegram: @icless / ig: @icleswtf
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: i hate html, css and js! 
 
